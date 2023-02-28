@@ -13,5 +13,8 @@ The GitHub sales analysis Excel dashboard is a customizable and dynamic tool des
  Target Women Customer of age group (30-49) lives in Maharastra ,kartanata and Uttar pradesh by showing adds ,offers
  and coupon are available on Amazon ,Flipkart and Myntra.
  
+ ![Store Data Analysis Dashboard](https://user-images.githubusercontent.com/119479346/221771253-f9c1adf4-b117-4ca6-a1f1-455d9118f4bb.png)
+
+ 
  
  visit my linked profile:linkedin.com/in/shivani-sati-158a97233
