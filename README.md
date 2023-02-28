@@ -5,7 +5,8 @@ The GitHub sales analysis Excel dashboard is a customizable and dynamic tool des
 
  It also allows for customization, so sales teams can tailor the dashboard to their specific needs and preferences, including adding or removing metrics and adjusting the time frame for data analysis.
  ## SOME USEFUL  INSIGHTS FROM THE DASHBOARD:
- 1. Women are more likely to buy then men(65%)
+ 
+ 1.Women are more likely to buy then men(65%)
  
  2.Maharastra,karnataka, and Uttar praedesh are top 3 states.
  
